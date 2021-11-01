@@ -1,0 +1,10 @@
+@misc{
+	akobeidOWBNumericalAnalysis2020,
+	author = {Abdul Karim Obeid, Elie Wolfe, Peter Bruza},
+	title = {Numerical Analysis of the OWB Product},
+	year = {2020},
+	publisher = {GitHub},
+	journal = {GitHub repository},
+	howpublished = {\\url{}},
+	commit = {}
+}
